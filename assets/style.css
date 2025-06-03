@@ -1,9 +1,9 @@
 /*.nan-link-item {
     display: inline;
-} */
+} 
 body {
-    /*text-align: right;*/
-}
+    /*text-align: right;
+}*/
 
 p {
    width: 200px;
@@ -25,4 +25,10 @@ a {
     margin: 10px;
     display: inline-block;
    
+}
+
+.scrolling {
+    width: 100%;
+    height: 150px;
+    overflow: auto;
 }
